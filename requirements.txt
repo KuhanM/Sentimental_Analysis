@@ -2,6 +2,7 @@ streamlit==1.31.0
 numpy==1.26.4
 pandas==1.5.3
 nltk==3.9.1
+tensorflow
 altair==5.2.0
 pillow==10.4.0
 setuptools==69.2.0
